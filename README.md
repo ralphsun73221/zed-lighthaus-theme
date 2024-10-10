@@ -11,3 +11,9 @@
 - Referenced the [visual-studio-code](https://github.com/lighthaus-theme/visual-studio-code) theme created by [Lighthaus](https://github.com/lighthaus-theme)
 - This theme is also based on the MIT license
 - Due to Zed's current limitations in customization options, some effects cannot be implemented (or I may not have found how to do it; if anyone knows, please let me know or submit a PR, thank you)
+
+## Journal
+
+### 241010
+
+	- 修改 `editor.document_highlight.bracket_background` 為 `#8E8D8D`
