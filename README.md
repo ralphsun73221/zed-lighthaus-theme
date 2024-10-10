@@ -15,5 +15,4 @@
 ## Journal
 
 ### 241010
-
-	- 修改 `editor.document_highlight.bracket_background` 為 `#8E8D8D`
+- 修改 `editor.document_highlight.bracket_background` 為 `#8E8D8D`
