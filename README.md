@@ -19,6 +19,6 @@
 
 ### 241030
 -  Changed:
-  - "editor.document_highlight.bracket_background": "#8E8D8D", to "editor.document_highlight.bracket_background": null
-  - "editor.active_line.background": null, to "editor.active_line.background": "#21252D"
-  - "text.placeholder": null, to "text.placeholder": "#FFFF00"
+   - "editor.document_highlight.bracket_background": "#8E8D8D", to"editor.document_highlight.bracket_background": null
+   - "editor.active_line.background": null, to "editor.active_line.background": "#21252D"
+   - "text.placeholder": null, to "text.placeholder": "#FFFF00"
