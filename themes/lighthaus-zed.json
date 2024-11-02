@@ -9,53 +9,65 @@
 			"style": {
 				"background.appearance": "opaque",
 				"accents": [],
+				"elevated_surface.background": "#21252D",
+				"surface.background": "#18191E",
+				"background": "#18191E",
+				"drop_target.background": "#00BFA4",
+				"status_bar.background": "#21252D",
+				"toolbar.background": "#18191E",
+				"search.match_background": null,
+				"link_text.hover": "#D291C1",
+				
 				"border": "#090B26",
 				"border.variant": "#21252D",
 				"border.focused": "#21252D",
 				"border.selected": "#46474A",
 				"border.transparent": "#46474A",
 				"border.disabled": "#46474A",
-				"elevated_surface.background": "#21252D",
-				"surface.background": "#18191E",
-				"background": "#18191E",
+				
 				"element.background": "#47A8A1",
 				"element.hover": "#46474A",
 				"element.active": null,
 				"element.selected": "#21252DCC",
 				"element.disabled": null,
-				"drop_target.background": "#00BFA4",
+				
 				"ghost_element.background": null,
-				"ghost_element.hover": "#46474A",
+				"ghost_element.hover": "#FF4D00",
 				"ghost_element.active": null,
-				"ghost_element.selected": "#46474A",
+				"ghost_element.selected": "#FF4D00",
 				"ghost_element.disabled": null,
+				
 				"text": "#FFFADE",
-				"text.muted": "#8E8D8D",
+				"text.muted": "#FFFADE",
 				"text.placeholder": "#FFFF00",
 				"text.disabled": null,
 				"text.accent": "#FFEE79",
+				
 				"icon": null,
 				"icon.muted": null,
 				"icon.disabled": null,
 				"icon.placeholder": null,
 				"icon.accent": null,
-				"status_bar.background": "#21252D",
+				
 				"title_bar.background": "#21252D",
 				"title_bar.inactive_background": null,
-				"toolbar.background": "#18191E",
+				
 				"tab_bar.background": "#18191E",
 				"tab.inactive_background": "#21252D",
 				"tab.active_background": "#18191EBF",
-				"search.match_background": null,
+				
 				"panel.background": "#21252D",
 				"panel.focused_border": null,
+				
 				"pane.focused_border": null,
 				"pane_group.border": "#46474A",
+				
 				"scrollbar.thumb.background": "#8E8D8D99",
 				"scrollbar.thumb.hover_background": "#8E8D8D",
 				"scrollbar.thumb.border": "#8E8D8D99",
 				"scrollbar.track.background": "#18191E",
 				"scrollbar.track.border": "#46474A",
+				
 				"editor.foreground": "#FFFADE",
 				"editor.background": "#18191E",
 				"editor.gutter.background": "#18191E",
@@ -72,6 +84,7 @@
 				"editor.document_highlight.read_background": null,
 				"editor.document_highlight.write_background": null,
 				"editor.document_highlight.bracket_background": null,
+				
 				"terminal.background": null,
 				"terminal.foreground": null,
 				"terminal.ansi.background": null,
@@ -101,49 +114,63 @@
 				"terminal.ansi.white": "#CCCCCC",
 				"terminal.ansi.bright_white": "#FFFADE",
 				"terminal.ansi.dim_white": null,
-				"link_text.hover": "#D291C1",
+				
 				"conflict": "#FC2929D9",
 				"conflict.background": null,
 				"conflict.border": null,
+				
 				"created": "#72B890",
 				"created.background": null,
 				"created.border": null,
+				
 				"deleted": "#EC6565",
 				"deleted.background": null,
 				"deleted.border": null,
+				
 				"error": "#FF5050",
 				"error.background": "#18191E",
 				"error.border": "#FF5050B3",
+				
 				"hidden": "#8E8D8D",
 				"hidden.background": null,
 				"hidden.border": null,
+				
 				"hint": "#969696ff",
 				"hint.background": null,
 				"hint.border": "#72B890B3",
+				
 				"ignored": "#CCCCCC",
 				"ignored.background": null,
 				"ignored.border": null,
+				
 				"info": "#D68EB2",
 				"info.background": "#18191E",
 				"info.border": "#D68EB2B3",
+				
 				"modified": "#DC7C45",
 				"modified.background": null,
 				"modified.border": null,
+				
 				"predictive": null,
 				"predictive.background": null,
 				"predictive.border": null,
+				
 				"renamed": null,
 				"renamed.background": null,
 				"renamed.border": null,
+				
 				"success": null,
 				"success.background": null,
 				"success.border": null,
+				
 				"unreachable": null,
 				"unreachable.background": null,
 				"unreachable.border": null,
+				
 				"warning": "#ED722E",
 				"warning.background": "#18191E",
 				"warning.border": "#ED722EB3",
+				
 				"players": [],
 				"syntax": {
 					"operator":{
