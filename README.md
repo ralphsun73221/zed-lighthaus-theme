@@ -22,3 +22,9 @@
    - `"editor.document_highlight.bracket_background": "#8E8D8D"`, to`"editor.document_highlight.bracket_background": null`
    - `"editor.active_line.background": null`, to `"editor.active_line.background": "#21252D"`
    - `"text.placeholder": null`, to `"text.placeholder": "#FFFF00"`
+   
+### 241102
+- Changed:
+   - `"ghost_element.hover": "#46474A"` to `"#FF4D00"`,
+   - `"ghost_element.selected": "#46474A"` to `"#FF4D00"`,
+   - `"text.muted": "#8E8D8D"` to `"#FFFADE"`,
