@@ -28,3 +28,9 @@
    - `"ghost_element.hover": "#46474A"` to `"#FF4D00"`,
    - `"ghost_element.selected": "#46474A"` to `"#FF4D00"`,
    - `"text.muted": "#8E8D8D"` to `"#FFFADE"`,
+
+### 241207
+- Changed:
+   - `surface.background: "#18191E"` to `"#21252D`"
+   - `ghost_element.selected: #FF4D00 to #090B26`
+   - `pane_group.border: #46474A to null`
