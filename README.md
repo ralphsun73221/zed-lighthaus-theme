@@ -15,22 +15,23 @@
 ## Journal
 
 ### 241010
-- 修改 `editor.document_highlight.bracket_background` 為 `#8E8D8D`
+- Changed:
+   - `editor.document_highlight.bracket_background` to `#8E8D8D`
 
 ### 241030
 -  Changed:
-   - `"editor.document_highlight.bracket_background": "#8E8D8D"`, to`"editor.document_highlight.bracket_background": null`
-   - `"editor.active_line.background": null`, to `"editor.active_line.background": "#21252D"`
-   - `"text.placeholder": null`, to `"text.placeholder": "#FFFF00"`
+   - `editor.document_highlight.bracket_background: #8E8D8D` to `null`
+   - `editor.active_line.background: null` to `#21252D`
+   - `text.placeholder: null` to `#FFFF00`
    
 ### 241102
 - Changed:
-   - `"ghost_element.hover": "#46474A"` to `"#FF4D00"`,
-   - `"ghost_element.selected": "#46474A"` to `"#FF4D00"`,
-   - `"text.muted": "#8E8D8D"` to `"#FFFADE"`,
+   - `ghost_element.hover: #46474A` to `#FF4D00`
+   - `ghost_element.selected: #46474A` to `#FF4D00`
+   - `text.muted: #8E8D8D` to `#FFFADE`
 
 ### 241207
 - Changed:
-   - `surface.background: "#18191E"` to `"#21252D`"
-   - `ghost_element.selected: #FF4D00 to #090B26`
-   - `pane_group.border: #46474A to null`
+   - `surface.background: "#18191E"` to `#21252D`
+   - `ghost_element.selected: #FF4D00` to `#090B26`
+   - `pane_group.border: #46474A` to `null`
