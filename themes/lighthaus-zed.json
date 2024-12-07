@@ -10,7 +10,7 @@
 				"background.appearance": "opaque",
 				"accents": [],
 				"elevated_surface.background": "#21252D",
-				"surface.background": "#18191E",
+				"surface.background": "#21252D",
 				"background": "#18191E",
 				"drop_target.background": "#00BFA4",
 				"status_bar.background": "#21252D",
@@ -34,7 +34,7 @@
 				"ghost_element.background": null,
 				"ghost_element.hover": "#FF4D00",
 				"ghost_element.active": null,
-				"ghost_element.selected": "#FF4D00",
+				"ghost_element.selected": "#090B26",
 				"ghost_element.disabled": null,
 				
 				"text": "#FFFADE",
@@ -60,7 +60,7 @@
 				"panel.focused_border": null,
 				
 				"pane.focused_border": null,
-				"pane_group.border": "#46474A",
+				"pane_group.border": null,
 				
 				"scrollbar.thumb.background": "#8E8D8D99",
 				"scrollbar.thumb.hover_background": "#8E8D8D",
